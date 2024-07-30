@@ -1,0 +1,6 @@
+@JobHereWebAPI_HostAddress = http://localhost:5200
+
+GET {{JobHereWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
